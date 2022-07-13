@@ -12,10 +12,10 @@ elif app_mode == 'NLP Emotion Detection':
     link = '[Click Here: NLP Emotion Detection](https://nerry-axl-elevateai-nlp-emo-detection--app-7dd47z.streamlitapp.com/)'
     st.markdown(link, unsafe_allow_html=True)
 
-elif app_mode == 'NLP Emotion Detection':
+elif app_mode == 'Face Mask Detection':
     link = '[Click Here: Face Mask Detection](https://nerry-axl-elevateai-face-mask-st-face-mask-detector-expl-q3ecr7.streamlitapp.com/)'
     st.markdown(link, unsafe_allow_html=True)
     
-elif app_mode == 'NLP Emotion Detection':
+elif app_mode == 'Hand Gesture Rcognition':
     link = '[Click Here: Hand Gesture Recognition](https://nerry-axl-elevateai-hand-gesture-detection-app-dnu60r.streamlitapp.com/)'
     st.markdown(link, unsafe_allow_html=True)
