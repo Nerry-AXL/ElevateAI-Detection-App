@@ -9,13 +9,13 @@ if app_mode == 'Home':
     link = '[Visit My Repositiory: Nerry Koukoui](https://github.com/Nerry-AXL)'
     st.markdown(link, unsafe_allow_html=True)
 elif app_mode == 'NLP Emotion Detection':
-    link = '[NLP Emotion Detection](https://nerry-axl-elevateai-nlp-emo-detection--app-7dd47z.streamlitapp.com/)'
+    link = '[Click Here: NLP Emotion Detection](https://nerry-axl-elevateai-nlp-emo-detection--app-7dd47z.streamlitapp.com/)'
     st.markdown(link, unsafe_allow_html=True)
 
 elif app_mode == 'NLP Emotion Detection':
-    link = '[Face Mask Detection](https://nerry-axl-elevateai-face-mask-st-face-mask-detector-expl-q3ecr7.streamlitapp.com/)'
+    link = '[Click Here: Face Mask Detection](https://nerry-axl-elevateai-face-mask-st-face-mask-detector-expl-q3ecr7.streamlitapp.com/)'
     st.markdown(link, unsafe_allow_html=True)
     
 elif app_mode == 'NLP Emotion Detection':
-    link = '[Hand Gesture Recognition](https://nerry-axl-elevateai-hand-gesture-detection-app-dnu60r.streamlitapp.com/)'
+    link = '[Click Here: Hand Gesture Recognition](https://nerry-axl-elevateai-hand-gesture-detection-app-dnu60r.streamlitapp.com/)'
     st.markdown(link, unsafe_allow_html=True)
