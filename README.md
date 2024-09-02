@@ -100,7 +100,3 @@ The ElevateAI Detection App provides detailed results for each uploaded image or
 ## Contributing
 
 Contributions to this project are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
